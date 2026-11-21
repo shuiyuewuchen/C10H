@@ -1,0 +1,18 @@
+### $ hermes config get skills
+[exit 0]
+external_dirs: []
+create_dir: ''
+project_discovery: true
+trusted_project_dirs: []
+auto_load: []
+template_vars: true
+inline_shell: false
+inline_shell_timeout: 10
+guard_agent_created: false
+tier1_advisory: true
+write_approval: false
+ledger: true
+ledger_max_bytes: 5242880
+creation_nudge_interval: 15
+
+

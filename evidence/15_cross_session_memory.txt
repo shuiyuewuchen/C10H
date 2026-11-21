@@ -1,0 +1,7 @@
+### $ hermes chat -q 请复述你记忆里关于 C10H 的那条内容（这是跨会话记忆验证） --provider custom --base-url http://127.0.0.1:8765/v1 --api-key local-mock-key -Q --yolo
+[exit 0]
+已收到并通过本地 mock provider 完成一次真实会话往返。当前链路：CLI → Gateway → custom provider (/v1/chat/completions) → 回复渲染。注意：这段文本是确定性桩输出，不是 LLM 生成内容；接入 OpenRouter 后同样的命令会返回真实模型回答。
+
+
+session_id: local-1a6318d507ceb5e3d88804099a3e2d92da96ed82d1ba168ea1f8f3c539c4260b
+

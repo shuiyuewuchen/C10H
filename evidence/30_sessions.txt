@@ -1,0 +1,14 @@
+### $ hermes sessions list
+[exit 0]
+Preview                                Workspace          Last Active   Src              ID
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[TOOL_DEMO] 请调用 memory 工具，把用户画像写入 US   2026-11-21-14-26   1m ago        oneshot          local-f2d54be8d09c6a385e9a842cd5fc822bd3438cd726e6084e1bdb960f13ceaef1
+列出你当前可用的技能总数，并确认是否包含 challenge-deliv   2026-11-21-14-26   5m ago        oneshot          local-9fd08b15cf595804578aaf292669e17da873d226657f29061ecef6a0ac03396f
+请复述你记忆里关于 C10H 的那条内容（这是跨会话记忆验证）        2026-11-21-14-26   9m ago        oneshot          local-1a6318d507ceb5e3d88804099a3e2d92da96ed82d1ba168ea1f8f3c539c4260b
+用一句话说明：你现在使用的是哪个模型？                    2026-11-21-14-26   9m ago        oneshot          local-9a37e9c67f3fba247bfefbfb8228528fb970ad1cd0bc311e536640d76f4992a6
+用一句话说明：你现在使用的是哪个模型？                    2026-11-21-14-26   9m ago        oneshot          local-839ba57842e7222e5dd6368deb92bb5f54e15317b54807e36eeb1ab66681c505
+[TOOL_DEMO] 请调用 memory 工具，把本次 C10H 验   2026-11-21-14-26   10m ago       oneshot          local-68be4ecb6cccc054074d1d7055eab88d66b852643ae30d9e7f0c13bbe4ca837b
+你好 Hermes，请用一句话说明你刚刚通过了哪条链路的验证？        2026-11-21-14-26   10m ago       oneshot          local-08aae07b4c9e86b129fde66d5272dec35c5e2d38e89e6f22c08d6508ac405ffe
+你好 Hermes，请用一句话说明你刚刚通过了哪条链路的验证？        2026-11-21-14-26   10m ago       oneshot          local-aa93c382e5259909e06a10d9715fd5d1f4b6166fd2523df9b438b5bbcae1d1f5
+
+

@@ -1,0 +1,9 @@
+### $ hermes profile list
+[exit 0]
+
+ Profile          Model                        Gateway      Alias        Distribution
+ ───────────────    ───────────────────────────    ───────────    ───────────    ────────────────────
+ ◆default         anthropic/claude-opus-4.6    running      —            —
+
+
+

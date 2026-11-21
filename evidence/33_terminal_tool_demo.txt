@@ -1,0 +1,7 @@
+### $ hermes chat -q [TOOL_DEMO] 请用 terminal 工具执行 hermes --version，告诉我版本号。 --provider custom --base-url http://127.0.0.1:8768/v1 --api-key local-mock-key -Q --yolo
+[exit 0]
+工具调用已成功执行：我发起了 1 次 tool_call，Hermes 真实执行了该工具并把结果回传，随后本轮给出最终答复。这证明 agent loop（模型→工具→结果→回复）在本机完整可用。
+
+
+session_id: local-02e55366e5975503b3ceabae09e7dc7b6067ef7db3bddf4b01a56749a976630c
+

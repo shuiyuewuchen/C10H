@@ -1,0 +1,7 @@
+### $ hermes chat -q [TOOL_DEMO] 请调用 memory 工具，把用户画像写入 USER.md 记忆库。 --provider custom --base-url http://127.0.0.1:8767/v1 --api-key local-mock-key -Q --yolo
+[exit 0]
+工具调用已成功执行：我发起了 1 次 tool_call，Hermes 真实执行了该工具并把结果回传，随后本轮给出最终答复。这证明 agent loop（模型→工具→结果→回复）在本机完整可用。
+
+
+session_id: local-f2d54be8d09c6a385e9a842cd5fc822bd3438cd726e6084e1bdb960f13ceaef1
+

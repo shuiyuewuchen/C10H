@@ -1,0 +1,25 @@
+### CMD: hermes --version
+Hermes Agent v0.23.3 (2026.9.24) · stable · local caafe5389ae5
+Install directory: /Users/a0532/.hermes/hermes-agent
+Install method: git
+Python: 3.14.9
+OpenAI SDK: 2.54.0
+Up to date
+
+### CMD: hermes tools (count + head)
+
+☤ Hermes Tool Configuration
+  Enable or disable tools per platform.
+  Tools that need API keys will be configured when enabled.
+  Guide: https://hermes-agent.nousresearch.com/docs/user-guide/features/tools
+
+[?1049h[1;24r(B[m[4l[?7h[?1l>
+  Select an option:
+  Select by number, Enter to confirm.
+
+  (●)  1. Configure 🖥️  CLI  (17/26 enabled)
+  (○)  2. Reconfigure an existing tool's provider or API key
+  (○)  3. Configure shared metrics  (off)
+  (○)  4. Done
+
+  Choice [default 1]: 

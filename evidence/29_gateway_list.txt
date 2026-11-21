@@ -1,0 +1,6 @@
+### $ hermes gateway list
+[exit 0]
+Gateways:
+  ✓ default (current)        — PID 82491
+
+

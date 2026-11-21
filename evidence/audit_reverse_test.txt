@@ -1,0 +1,9 @@
+### 反向测试（构造缺少 AI日志/AAR/迭代痕迹的假提交）
+missing_deliverables: ['AI日志']
+triggered_red_flags: ['missing_artifacts', 'no_ai_log', 'one_shot_ai']
+### 正向复测（真实交付目录）
+missing_deliverables: []
+triggered_red_flags: []
+结论：反向 3 个红旗全部触发，正向 0 缺失 / 0 红旗 → 检测有效，无假阴性
+附：反向测试第一次暴露「无迭代记录」被误判为有迭代（否定短语含关键词），
+已修正为强信号+剔除否定短语，见 audit.py §3 红旗。

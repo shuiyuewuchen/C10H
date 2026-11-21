@@ -1,0 +1,154 @@
+
+┌─────────────────────────────────────────────────────────┐
+│             ☤ Hermes Agent Installer                    │
+├─────────────────────────────────────────────────────────┤
+│  An open source AI agent by Nous Research.              │
+└─────────────────────────────────────────────────────────┘
+
+✓ prerequisites ok (git, curl)
+→ Installing the latest stable release (v0.23.3); --channel main follows every commit
+→ Cloning https://github.com/NousResearch/hermes-agent.git (main) into /Users/a0532/.hermes/hermes-agent
+Cloning into '/Users/a0532/.hermes/.hermes-clone-GRkbU9/tree'...
+→ Fetching v0.23.3
+→ Checking out v0.23.3 (attempt 1 of 2)
+HEAD is now at caafe5389a plugin-catalog: re-pin claude-subscription-directsdk (0.4.0) and bubblewrap (1.5.2)
+✓ Hermes Agent cloned
+→ Downloading uv 0.13.5 (darwin-arm64)
+WorkBuddy: file rollback is not tracked for these tar options.
+✓ uv ready (uv 0.13.5 (46776a95d 2026-10-21 aarch64-apple-darwin))
+→ Downloading Python 3.14
+Downloading cpython-3.14.9-macos-aarch64-none (download) (25.5MiB)
+ Downloaded cpython-3.14.9-macos-aarch64-none (download)
+Installed Python 3.14.9 in 7.99s
+ + cpython-3.14.9-macos-aarch64-none
+✓ bootstrap Python ready; PM prepares the dependency environment
+✓ uv ready (uv 0.13.5 (46776a95d 2026-10-21 aarch64-apple-darwin))
+→ Installing dependencies (hash-verified via uv.lock)
+Preparing the isolated Hermes runtime…
+  → Installing Python dependencies…
+  ✓ Installing Python dependencies
+network request failed (<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>); retrying in 1s (1/4 failures without progress)
+network request failed (<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>); retrying in 2s (2/4 failures without progress)
+network request failed (<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>); retrying in 4s (3/4 failures without progress)
+  ffmpeg:  14.7%  4.0 MiB / 27.1 MiB
+  ffmpeg:  30.9%  8.4 MiB / 27.1 MiB
+  ffmpeg:  48.6%  13.2 MiB / 27.1 MiB
+  ffmpeg:  63.3%  17.2 MiB / 27.1 MiB
+  ffmpeg:  78.0%  21.2 MiB / 27.1 MiB
+  ffmpeg:  94.2%  25.6 MiB / 27.1 MiB
+  ffmpeg: 100.0%  27.1 MiB / 27.1 MiB
+  ffmpeg: 100.0%  27.1 MiB / 27.1 MiB
+  ffmpeg: unpacking
+✓ ffmpeg
+  node:  13.7%  4.0 MiB / 29.2 MiB
+  node:  29.6%  8.7 MiB / 29.2 MiB
+  node:  43.3%  12.7 MiB / 29.2 MiB
+  node:  60.3%  17.6 MiB / 29.2 MiB
+  node:  76.2%  22.3 MiB / 29.2 MiB
+  node:  90.9%  26.6 MiB / 29.2 MiB
+  node: 100.0%  29.2 MiB / 29.2 MiB
+  node: 100.0%  29.2 MiB / 29.2 MiB
+  node: unpacking
+✓ node
+  npm: 100.0%  2.9 MiB / 2.9 MiB
+  npm: 100.0%  2.9 MiB / 2.9 MiB
+  npm: unpacking
+✓ npm
+  pnpm:  18.3%  4.0 MiB / 21.8 MiB
+  pnpm:  40.4%  8.8 MiB / 21.8 MiB
+  pnpm:  61.5%  13.4 MiB / 21.8 MiB
+  pnpm:  80.7%  17.6 MiB / 21.8 MiB
+  pnpm: 100.0%  21.8 MiB / 21.8 MiB
+  pnpm: 100.0%  21.8 MiB / 21.8 MiB
+  pnpm: unpacking 1/2
+  pnpm: unpacking 2/2
+✓ pnpm
+  python:  15.6%  4.0 MiB / 25.6 MiB
+  python:  32.0%  8.2 MiB / 25.6 MiB
+  python:  49.2%  12.6 MiB / 25.6 MiB
+  python:  65.6%  16.8 MiB / 25.6 MiB
+  python:  81.3%  20.8 MiB / 25.6 MiB
+  python:  99.2%  25.4 MiB / 25.6 MiB
+  python: 100.0%  25.6 MiB / 25.6 MiB
+  python: 100.0%  25.6 MiB / 25.6 MiB
+  python: unpacking
+✓ python
+  ripgrep: 100.0%  1.7 MiB / 1.7 MiB
+  ripgrep: 100.0%  1.7 MiB / 1.7 MiB
+  ripgrep: unpacking
+✓ ripgrep
+  → Installing Python dependencies…
+  ✓ Installing Python dependencies
+✓ venv
+  chromium:   2.2%  4.0 MiB / 186.0 MiB
+  chromium:   4.3%  8.0 MiB / 186.0 MiB
+  chromium:   6.5%  12.0 MiB / 186.0 MiB
+  chromium:   8.6%  16.0 MiB / 186.0 MiB
+  chromium:  10.8%  20.0 MiB / 186.0 MiB
+  chromium:  12.9%  24.0 MiB / 186.0 MiB
+  chromium:  15.1%  28.0 MiB / 186.0 MiB
+  chromium:  17.2%  32.0 MiB / 186.0 MiB
+  chromium:  19.4%  36.0 MiB / 186.0 MiB
+  chromium:  21.6%  40.2 MiB / 186.0 MiB
+  chromium:  23.8%  44.2 MiB / 186.0 MiB
+  chromium:  25.9%  48.2 MiB / 186.0 MiB
+  chromium:  28.1%  52.2 MiB / 186.0 MiB
+  chromium:  30.2%  56.2 MiB / 186.0 MiB
+  chromium:  32.4%  60.2 MiB / 186.0 MiB
+  chromium:  34.5%  64.2 MiB / 186.0 MiB
+  chromium:  36.7%  68.2 MiB / 186.0 MiB
+  chromium:  38.8%  72.2 MiB / 186.0 MiB
+  chromium:  41.0%  76.2 MiB / 186.0 MiB
+  chromium:  43.1%  80.2 MiB / 186.0 MiB
+  chromium:  45.3%  84.2 MiB / 186.0 MiB
+  chromium:  47.4%  88.2 MiB / 186.0 MiB
+  chromium:  49.6%  92.2 MiB / 186.0 MiB
+  chromium:  51.7%  96.2 MiB / 186.0 MiB
+  chromium:  53.9%  100.2 MiB / 186.0 MiB
+  chromium:  56.1%  104.2 MiB / 186.0 MiB
+  chromium:  58.2%  108.2 MiB / 186.0 MiB
+  chromium:  60.5%  112.5 MiB / 186.0 MiB
+  chromium:  62.6%  116.5 MiB / 186.0 MiB
+  chromium:  64.9%  120.7 MiB / 186.0 MiB
+  chromium:  67.1%  124.7 MiB / 186.0 MiB
+  chromium:  69.2%  128.7 MiB / 186.0 MiB
+  chromium:  71.4%  132.7 MiB / 186.0 MiB
+  chromium:  73.5%  136.7 MiB / 186.0 MiB
+  chromium:  75.7%  140.7 MiB / 186.0 MiB
+  chromium:  77.8%  144.7 MiB / 186.0 MiB
+  chromium:  80.1%  149.0 MiB / 186.0 MiB
+  chromium:  82.3%  153.0 MiB / 186.0 MiB
+  chromium:  84.4%  157.0 MiB / 186.0 MiB
+  chromium:  86.6%  161.0 MiB / 186.0 MiB
+  chromium:  88.7%  165.0 MiB / 186.0 MiB
+  chromium:  90.9%  169.0 MiB / 186.0 MiB
+  chromium:  93.0%  173.0 MiB / 186.0 MiB
+  chromium:  95.3%  177.2 MiB / 186.0 MiB
+  chromium:  97.7%  181.7 MiB / 186.0 MiB
+  chromium:  99.9%  185.7 MiB / 186.0 MiB
+  chromium: 100.0%  186.0 MiB / 186.0 MiB
+  chromium: 100.0%  186.0 MiB / 186.0 MiB
+  chromium: unpacking
+✓ chromium
+  cua-driver:   6.0%  4.0 MiB / 66.2 MiB
+  cua-driver:  12.1%  8.0 MiB / 66.2 MiB
+  cua-driver:  18.1%  12.0 MiB / 66.2 MiB
+  cua-driver:  24.6%  16.3 MiB / 66.2 MiB
+  cua-driver:  30.6%  20.3 MiB / 66.2 MiB
+  cua-driver:  37.1%  24.6 MiB / 66.2 MiB
+  cua-driver:  43.1%  28.6 MiB / 66.2 MiB
+  cua-driver:  49.2%  32.6 MiB / 66.2 MiB
+  cua-driver:  55.2%  36.6 MiB / 66.2 MiB
+  cua-driver:  61.2%  40.6 MiB / 66.2 MiB
+  cua-driver:  67.3%  44.6 MiB / 66.2 MiB
+  cua-driver:  73.7%  48.8 MiB / 66.2 MiB
+  cua-driver:  80.2%  53.1 MiB / 66.2 MiB
+  cua-driver:  86.2%  57.1 MiB / 66.2 MiB
+  cua-driver:  93.1%  61.7 MiB / 66.2 MiB
+  cua-driver:  99.6%  65.9 MiB / 66.2 MiB
+  cua-driver: 100.0%  66.2 MiB / 66.2 MiB
+  cua-driver: 100.0%  66.2 MiB / 66.2 MiB
+  cua-driver: unpacking
+✓ cua-driver
+✓ dependencies installed
+Broker 文件操作被敏感读裁决阻止

@@ -1,0 +1,7 @@
+### $ hermes tools --summary
+[exit 1]
+
+Error: 'hermes tools' requires an interactive terminal.
+It cannot be run through a pipe or non-interactive subprocess.
+Run it directly in your terminal instead.
+

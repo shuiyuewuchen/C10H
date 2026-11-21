@@ -1,0 +1,59 @@
+### $ hermes insights --days 7
+[exit 0]
+
+  ╔══════════════════════════════════════════════════════════╗
+  ║                    📊 Hermes Insights                    ║
+  ║                       Last 7 days                        ║
+  ╚══════════════════════════════════════════════════════════╝
+
+  Period: Nov 21, 2026 — Nov 21, 2026
+
+  📋 Overview
+  ────────────────────────────────────────────────────────
+  Sessions:          8             Messages:        20
+  Tool calls:        2             User messages:   8
+  Input tokens:      0             Output tokens:   0
+  Total tokens:      0
+  Active time:       ~7m           Avg session:     ~52s
+  Avg msgs/session:  2.5
+
+  💰 Cost
+  ────────────────────────────────────────────────────────
+  Unknown:            2 session(s) (no pricing data)
+
+  🤖 Models Used
+  ────────────────────────────────────────────────────────
+  Model                          Sessions       Tokens
+  claude-opus-4.6                       0            0
+
+  📱 Platforms
+  ────────────────────────────────────────────────────────
+  Platform       Sessions   Messages         Tokens
+  oneshot               8         20              0
+
+  🔧 Top Tools
+  ────────────────────────────────────────────────────────
+  Tool                            Calls        %
+  memory                              2   100.0%
+
+  📅 Activity Patterns
+  ────────────────────────────────────────────────────────
+  Mon                  0
+  Tue                  0
+  Wed                  0
+  Thu                  0
+  Fri                  0
+  Sat  ███████████████ 8
+  Sun                  0
+
+  Peak hours: 2PM (8)
+  Active days: 1
+
+  🏆 Notable Sessions
+  ────────────────────────────────────────────────────────
+  Longest session      7m                 (Nov 21, local-aa93c382e5)
+  Most messages        4 msgs             (Nov 21, local-f2d54be8d0)
+  Most tool calls      1 calls            (Nov 21, local-f2d54be8d0)
+
+
+

@@ -1,0 +1,18 @@
+### $ hermes status
+[exit 0]
+
+┌─────────────────────────────────────────────────────────┐
+│                 ☤ Hermes Agent Status                  │
+└─────────────────────────────────────────────────────────┘
+
+  Model:        anthropic/claude-opus-4.6
+  Provider:     Auto
+  Providers:    none connected
+  Gateway:      ✗ stopped
+  Platforms:    none configured
+  Jobs:         0
+
+  Run 'hermes status --full' for every section
+
+
+

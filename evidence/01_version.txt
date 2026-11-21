@@ -1,0 +1,10 @@
+### $ hermes --version
+[exit 0]
+Hermes Agent v0.23.3 (2026.9.24) · stable · local caafe5389ae5
+Install directory: /Users/a0532/.hermes/hermes-agent
+Install method: git
+Python: 3.14.9
+OpenAI SDK: 2.54.0
+Up to date
+
+

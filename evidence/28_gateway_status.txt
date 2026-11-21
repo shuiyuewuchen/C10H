@@ -1,0 +1,10 @@
+### $ hermes gateway status
+[exit 0]
+✓ Gateway is running (PID: 82491)
+  (Running manually, not as a system service)
+
+To install as a service:
+  hermes gateway install
+  sudo hermes gateway install --system
+
+

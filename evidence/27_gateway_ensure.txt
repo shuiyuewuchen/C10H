@@ -1,0 +1,5 @@
+### $ hermes gateway ensure
+[exit 0]
+{"client_code_sha":"caafe5389ae585ef77387a962aee05b1bcf17029","detail":null,"endpoint":{"api_origin":"http://127.0.0.1:49955","authority_epoch":1,"capabilities":["durable-admission-v1","event-replay-v1","session-authority-v1"],"code_sha":"caafe5389ae585ef77387a962aee05b1bcf17029","control_home":null,"instance_id":"9446831d32ec43068e137fe2d480197c","profile_id":"/Users/a0532/.hermes","runtime_protocol":1,"supervisor":"none"},"reason_code":null,"state":"ready"}
+
+

@@ -1,0 +1,7 @@
+### $ hermes config get model
+[exit 0]
+default: anthropic/claude-opus-4.6
+provider: auto
+base_url: https://openrouter.ai/api/v1
+
+

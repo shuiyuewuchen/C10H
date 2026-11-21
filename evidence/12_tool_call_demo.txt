@@ -1,0 +1,10 @@
+### $ hermes chat -q [TOOL_DEMO] 请调用 memory 工具，把本次 C10H 验证结论写入持久记忆，然后总结你做了什么。 --provider custom --base-url http://127.0.0.1:8766/v1 --api-key local-mock-key -Q --yolo
+[exit 0]
+
+--- STDOUT ---
+工具调用已成功执行：我发起了 1 次 tool_call，Hermes 真实执行了该工具并把结果回传，随后本轮给出最终答复。这证明 agent loop（模型→工具→结果→回复）在本机完整可用。
+
+--- STDERR ---
+
+session_id: local-68be4ecb6cccc054074d1d7055eab88d66b852643ae30d9e7f0c13bbe4ca837b
+

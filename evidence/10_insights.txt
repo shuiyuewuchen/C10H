@@ -1,0 +1,5 @@
+### $ hermes insights
+[exit 0]
+  No session data yet.
+
+

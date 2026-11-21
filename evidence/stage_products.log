@@ -1,0 +1,30 @@
+✓ uv ready (uv 0.13.5 (46776a95d 2026-10-21 aarch64-apple-darwin))
+→ Building the hermes command and apps
+  → Preparing Node dependencies…
+  ✓ Preparing Node dependencies
+  → Building the TUI…
+  ✓ Building the TUI
+  → Building the web UI…
+  ✓ Building the web UI
+  ✓ Model catalog cache refreshed from checkout
+
+→ Syncing bundled skills...
+  + 44 new: youtube-content, maps, teams-meeting-pipeline, pdf, document-to-action-items, meeting-action-items, product-price-monitor, microsoft-office, google-workspace, weekly-review-planning, claude-code, codex, hermes-agent, computer-use, himalaya, email-inbox-triage, baoyu-infographic, songwriting-and-ai-music, ascii-video, claude-design, popular-web-designs, manim-video, humanizer, p5js, architecture-diagram, obsidian, blocked-page-recovery, test-driven-development, systematic-debugging, github, codebase-inspection, spike, requesting-code-review, simplify-code, dogfood, sdlc-review, xurl, grounded-citations, competitor-news-monitor, arxiv, apple-reminders, imessage, findmy, apple-notes
+
+→ Syncing bundled skills to all profiles...
+  default: up to date
+
+→ Checking configuration for new options...
+  ✓ Configuration is up to date
+
+✓ Install complete! [detached @ caafe5389a]
+
+ℹ Skill curator
+  Background skill maintenance is enabled. First pass is deferred ~7d after installation; only agent-created skills are in scope and nothing is ever auto-deleted (archive is recoverable).
+  Preview now:  hermes curator run --dry-run
+  Pause it:     hermes curator pause
+  Docs:         https://hermes-agent.nousresearch.com/docs/user-guide/features/curator
+
+→ Preparing pinned cua-driver (Computer Use)...
+✓ added ~/.local/bin to PATH in /Users/a0532/.zprofile
+✓ app products and hermes command ready

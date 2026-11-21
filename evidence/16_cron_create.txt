@@ -1,0 +1,9 @@
+### $ hermes cron create 0 9 * * * 生成今日 C10H 学习进度摘要：列出昨日已完成项、今日计划、阻塞点。 --name C10H 每日晨间摘要 --deliver local --timezone Asia/Shanghai
+[exit 0]
+Created job: 6caa6367439f
+  Name: C10H 每日晨间摘要
+  Schedule: 0 9 * * *
+  Timezone: Asia/Shanghai (schedule runs on this zone's wall clock)
+  Next run: 2026-11-22T09:00:00+08:00
+
+

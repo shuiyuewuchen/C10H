@@ -1,0 +1,31 @@
+
+┌─────────────────────────────────────────────────────────┐
+│             ☤ Hermes Agent Installer                    │
+├─────────────────────────────────────────────────────────┤
+│  An open source AI agent by Nous Research.              │
+└─────────────────────────────────────────────────────────┘
+
+✓ prerequisites ok (git, curl)
+→ Updating /Users/a0532/.hermes/hermes-agent to the latest stable release (v0.23.3)
+→ Fetching v0.23.3
+→ Keeping its checkout: it already has v0.23.3 (`hermes update` moves it to the next release)
+✓ uv ready (uv 0.13.5 (46776a95d 2026-10-21 aarch64-apple-darwin))
+✓ bootstrap Python ready; PM prepares the dependency environment
+✓ uv ready (uv 0.13.5 (46776a95d 2026-10-21 aarch64-apple-darwin))
+→ Installing dependencies (hash-verified via uv.lock)
+Preparing the isolated Hermes runtime…
+  → Installing Python dependencies…
+  ✓ Installing Python dependencies
+✓ ffmpeg
+✓ node
+✓ npm
+✓ pnpm
+✓ python
+✓ ripgrep
+  → Installing Python dependencies…
+  ✓ Installing Python dependencies
+✓ venv
+✓ chromium
+✓ cua-driver
+✓ dependencies installed
+Broker 文件操作被敏感读裁决阻止

@@ -1,0 +1,8 @@
+### $ hermes gateway setup --help
+[exit 0]
+usage: hermes gateway setup [-h]
+
+options:
+  -h, --help  show this help message and exit
+
+
